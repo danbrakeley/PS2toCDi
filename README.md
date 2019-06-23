@@ -14,7 +14,7 @@ To learn about the various CDi device protocols, I used some scans of Philips te
 
 ## Install and build
 
-First you need to add the PS2-Mouse-Arduino library. You can just clone [my PS2-Mouse-Arguino fork](https://github.com/danbrakeley/PS2-Mouse-Arduino) into your library folder. For Windows, that would be `C:\Users\<username>\Documents\Arduino\libraries\`.
+First you need to add the PS2-Mouse-Arduino library. You can just clone [my PS2-Mouse-Arduino fork](https://github.com/danbrakeley/PS2-Mouse-Arduino) into your library folder. For Windows, that would be `C:\Users\<username>\Documents\Arduino\libraries\`.
 
 Next you need to clone this project down somewhere, and then just open the `.ino` file in the sketch folder, set the pin constants at the top of the source to the pins you plan on using, and compile and go.
 
