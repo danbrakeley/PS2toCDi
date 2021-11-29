@@ -161,4 +161,3 @@ void printBits(byte n)
   Serial.print(n & 0b00000010 ? "1" : "0");
   Serial.print(n & 0b00000001 ? "1" : "0");
 }
-
